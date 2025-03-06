@@ -26,14 +26,14 @@ Olá! Me chamo Victor Tavares, tenho 18 anos e sou de Fortalza-Ceará. Sou estud
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="120px" 
+    height="170px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=v1ctortav&theme=dark&show_icons=true" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="120px" 
+      height="170px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ctortav&theme=dark&layout=compact" 
   />
 
