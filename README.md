@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Full Stack`**
 
-Olá! Me chamo Victor Tavares, tenho 18 anos e sou de Fortalza-Ceará. Sou estudante full stack na [Digital College](https://www.instagram.com/digitalcollegebr/). Em breve, cursarei Ciência da Computação. Estou sempre buscando melhorar meus conhecimentos no mundo da programação e explorar novas tecnologias. Tenho interesse em desenvolvimento web, principalmente pelo front-end.
+Olá! Me chamo Victor Tavares, tenho 18 anos e sou de Fortalza-Ceará. Sou estudante do curso de Ciência da Computação na Unifor. Estou sempre buscando melhorar meus conhecimentos no mundo da programação e explorar novas tecnologias. Tenho interesse em desenvolvimento de jogos e web.
 
-<img align="center" alt="v1ctortav" width="100%" src="https://i.pinimg.com/originals/e0/d1/7b/e0d17b535cd3654b6cbdaff6a3e3b9fa.gif" /> 
+<img align="center" alt="v1ctortav" width="100%" src="https://media1.tenor.com/m/JxMYVQsA2gcAAAAC/stars-sky.gif" /> 
 
 ---
 
