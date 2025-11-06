@@ -1,4 +1,4 @@
-# 💀 Victor Tavares
+# Victor Tavares
 
 **`Desenvolvedor Full Stack`**
 
