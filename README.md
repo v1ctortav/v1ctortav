@@ -4,8 +4,6 @@
 
 Olá! Me chamo Victor Tavares, tenho 18 anos e sou de Fortalza-Ceará. Sou estudante do curso de Ciência da Computação na Unifor. Estou sempre buscando melhorar meus conhecimentos no mundo da programação e explorar novas tecnologias. Tenho interesse em desenvolvimento de jogos e web.
 
-<img align="center" alt="v1ctortav" width="100%" src="https://media1.tenor.com/m/f083QvBJDiQAAAAC/crow.gif" /> 
-
 ---
 
 ### 🤖 Linguagens e Ferramentas
@@ -20,21 +18,3 @@ Olá! Me chamo Victor Tavares, tenho 18 anos e sou de Fortalza-Ceará. Sou estud
 
 ---
 
-### 📊 Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=v1ctortav&theme=dark&show_icons=true" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ctortav&theme=dark&layout=compact" 
-  />
-
-</p>
