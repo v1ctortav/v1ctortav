@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Olá! Me chamo Victor Tavares, tenho 18 anos e sou de Fortalza-Ceará. Sou estudante do curso de Ciência da Computação na Unifor. Estou sempre buscando melhorar meus conhecimentos no mundo da programação e explorar novas tecnologias. Tenho interesse em desenvolvimento de jogos e web.
+Olá! Me chamo Victor Tavares, tenho 19 anos e sou de Fortalza/CE. Graduando em Ciência da Computação na Unifor. Estou sempre buscando melhorar meus conhecimentos no mundo da programação e explorar novas tecnologias. Tenho interesse em desenvolvimento web.
 
 ---
 
