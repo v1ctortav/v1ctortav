@@ -1,31 +1,31 @@
-# Olá! Eu sou o Victor 👋
+# Olá! Eu sou o Victor ⏾
 
-🎓 Estudante de **Ciência da Computação** na **Universidade de Fortaleza**.
+.ᐟ Estudante de **Ciência da Computação** na **Universidade de Fortaleza**.
 
-💻 Desenvolvedor em formação com interesse em **Web, Mobile e Game Development**.
+⬩➤ Desenvolvedor em formação com interesse em **Web, Mobile e Game Development**.
 
 Atualmente estou focado em aprender, criar projetos e construir minha experiência como desenvolvedor.
 
 ---
 
-## 🧑‍💻 Sobre mim
+## ˗ˏˋ Sobre mim
 
-* 🎓 Ciência da Computação — **Unifor**
-* 🌐 Interesse em **Desenvolvimento Web**
-* 📱 Interesse em **Desenvolvimento Mobile**
-* 🎮 Interesse com **Desenvolvimento de Jogos**
+⋮ Ciência da Computação — **Unifor** <br>
+⋮ Interesse em **Desenvolvimento Web** <br>
+⋮ Interesse em **Desenvolvimento Mobile** <br>
+⋮ Interesse com **Desenvolvimento de Jogos**
 
 ---
 
-## 🚀 Tecnologias
+## ✶ Tecnologias
 
-### 💻 Linguagens
+### ᯓ Linguagens
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,kotlin,javascript,html,css,godot" />
 </p>
 
-### 🛠️ Ferramentas
+### ⊹ Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,godot,git,github,webstorm" />
@@ -33,17 +33,17 @@ Atualmente estou focado em aprender, criar projetos e construir minha experiênc
 
 ---
 
-## 🎧 Fora do código
+## 𖦹 Fora do código
 
 Quando não estou programando, provavelmente estou:
 
-🎵 Escutando música
-🎮 Jogando
-🎬 Assistindo filmes
+♪ Escutando música
+⟡ Jogando
+𖥻 Assistindo filmes
 
 ---
 
-## 📫 Contato
+## 𑣲⋆ Contato
 
 <div align="center">
   
