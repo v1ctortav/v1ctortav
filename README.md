@@ -17,7 +17,7 @@ Atualmente estou focado em aprender, criar projetos e construir minha experiênc
 
 ---
 
-## ✶ Tecnologias
+## ✦ Tecnologias
 
 ### ᯓ Linguagens
 
@@ -33,7 +33,7 @@ Atualmente estou focado em aprender, criar projetos e construir minha experiênc
 
 ---
 
-## 𖦹 Fora do código
+## ✦ Fora do código
 
 Quando não estou programando, provavelmente estou:
 
@@ -43,7 +43,7 @@ Quando não estou programando, provavelmente estou:
 
 ---
 
-## 𑣲⋆ Contato
+## ✦ Contato
 
 <div align="center">
   
@@ -53,6 +53,10 @@ Quando não estou programando, provavelmente estou:
 
 <a href="https://www.linkedin.com/in/v1ctortav/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</a> <br>
+
+<img src="https://media1.tenor.com/m/R2J66hn8jy4AAAAd/the-1975-matty-healy.gif" width="600">
+
+⟡ ─────────────── ⋆ ─────────────── ⟡
 
 </div>
